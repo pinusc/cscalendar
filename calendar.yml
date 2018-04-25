@@ -1,0 +1,18 @@
+calendar: 
+    begin: 20170828
+    end: 20180608
+    holidays:
+        - begin: 20170930
+          end: 20171008
+        - begin: 20171028
+          end: 20171104
+        - begin: 20171223
+          end: 20180107
+        - begin: 20180214
+          end: 20180225
+        - begin: 20180325
+          end: 20180331
+        - begin: 20180405
+          end: 20180408
+        - begin: 20180428
+          end: 20180501

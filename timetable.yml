@@ -1,0 +1,29 @@
+PRE:
+    1: AABEC
+    2: BBHFDA
+    3: CCGDAE
+    4: DDHEBJ
+    5: EEGCFB
+    6: FJHACD
+    F1: J@@@@@
+    F2: J@@@@@
+
+DP1:
+    1: AAGBEC
+    2: BBHFDA
+    3: CCGGAE
+    4: GDHHBF
+    5: HEGCFB
+    6: FFHACD
+    F1: AB@C@@
+    F2: FG@H@@
+
+DP2:
+    1: AAGLBEC
+    2: BBHLFDA
+    3: CCGLDAE
+    4: DDHLEBF
+    5: EEGLCFB
+    6: FFHLACD
+    F1: AB@LC@@
+    F2: FD@LE@@
