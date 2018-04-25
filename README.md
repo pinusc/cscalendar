@@ -31,6 +31,3 @@ It can be one of the following: DP1, DP2, or preDP.
 
 The block override options are -a, -b, ..., -f. By using these options,
 you override (or manually add) your classes. 
-
-# onfig files The
-
