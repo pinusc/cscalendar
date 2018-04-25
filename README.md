@@ -1,6 +1,6 @@
-#CSCCalendar
+# CSCalendar
 
-This is *csccalendar*, a small python shell (and, thanks to Gooey, GUI)
+This is *cscalendar*, a small python shell
 utility to automagically generate an iCal file with your schedule!
 
 The utility has been tailored to fit the rather *unusual* requirements of
@@ -18,7 +18,7 @@ and run the script with
 
     python gui.py
 
-#Arguments 
+# Arguments 
 
 The script has two positional arguments: Name and DP. The name is a string
 containing your name, as it appears in the class declaration files (the
@@ -32,5 +32,5 @@ It can be one of the following: DP1, DP2, or preDP.
 The block override options are -a, -b, ..., -f. By using these options,
 you override (or manually add) your classes. 
 
-#Config files The
+# onfig files The
 
